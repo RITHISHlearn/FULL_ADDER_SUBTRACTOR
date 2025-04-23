@@ -81,10 +81,10 @@ module ex4b(df, bo, a, b, bin);
 endmodule
 ```
 
-Developed by: A.Pugazh sozhan
+Developed by: Rithish.P
 
-RegisterNumber:212224240121
-*/
+RegisterNumber: 212223230173
+
 
 **RTL Schematic**
 
@@ -113,6 +113,5 @@ FULL SUBTRACTOR
 **Result:**
 
 Thus the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
-
 
 
