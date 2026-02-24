@@ -44,7 +44,7 @@ Write the detailed procedure here
 
 **Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+ To design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 
 ```
 //expt4a-full adder
@@ -88,24 +88,19 @@ RegisterNumber: 212223230173
 
 **RTL Schematic**
 
-FULL ADDER
-
-![image](https://github.com/user-attachments/assets/3219f217-3e91-408a-9e1d-662f56adee8c)
-
-FULL SUBTRACTOR
-
-![image](https://github.com/user-attachments/assets/be9452b0-2b00-4742-a178-e580ec06b2dc)
+ <img width="1056" height="613" alt="image" src="https://github.com/user-attachments/assets/bdd9ea62-75e3-4f28-9ec3-9b55d08fc706" />
 
 
+<img width="1214" height="532" alt="image" src="https://github.com/user-attachments/assets/5eb64d0b-debc-4d87-bdd1-bca11d0d3969" />
 
 
 **Output Timing Waveform**
 
-FULL ADDER
+# FULL ADDER
 
 ![image](https://github.com/user-attachments/assets/c4e2f368-f5a1-4fbb-be62-1e9bb76b2f9f)
 
-FULL SUBTRACTOR
+# FULL SUBTRACTOR
 
 ![430854454-c74db76f-3c6f-44b8-a1e1-b33195f0832d](https://github.com/user-attachments/assets/41dac05f-8cc7-4351-a82b-635152414dff)
 
